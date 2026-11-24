@@ -34,7 +34,7 @@ Completed the initial research into potential data sources, legal and ethical co
 - Data Visualisation
 - GitHub
   
-[View Task 1 Documentation](./Task-1/CadetX%20internship.docx)
+[View Task 1 Documentation](./CadetX%20internship.docx)
 
 ## Repository Structure
 
